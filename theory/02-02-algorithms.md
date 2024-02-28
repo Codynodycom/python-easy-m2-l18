@@ -1,6 +1,7 @@
 ## Визуализация
 
 Посмотреть визуализацию всех алгоритмов можно по ссылке:
+
 https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
 
 # Сортировка пузырьком (Bubble Sort)
