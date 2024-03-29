@@ -6,9 +6,9 @@
 
 [Шифрование](theory/01-02-encryption.md)
 
-[Алгоритмы сортировки](theory/)
+[Алгоритмы сортировки](theory/02-01-sort-algorithms.md)
 
-[Реализация алгоритмов](theory/)
+[Реализация алгоритмов](theory/02-02-algorithms.md)
 
 <hr>
 
